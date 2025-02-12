@@ -1,2 +1,2 @@
-# aula-fundamentos-da-inform-tica
+# aula-fundamentos-da-informatica
 aulas de FI
